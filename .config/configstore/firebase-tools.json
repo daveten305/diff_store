@@ -1,0 +1,81 @@
+{
+	"analytics-uuid": "4b03ad8e-8947-420f-967d-f7064bc416a2",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1638055127238
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "106455036190340315856",
+		"email": "dave5225@gmail.com",
+		"email_verified": true,
+		"at_hash": "dGi71CY7Y0vxx_DpDuSEIg",
+		"iat": 1636560949,
+		"exp": 1636564549
+	},
+	"tokens": {
+		"expires_at": 1638082575675,
+		"refresh_token": "1//04n7U4t40cuweCgYIARAAGAQSNwF-L9IrkKGGmhmZjrdKuIaHKuUsVWURouMlotFdZ-zq9NUrX4OOQ6Vt6QfzcM7NaZdM2wMokQM",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM-UNqMTDLyN-cvgwyUPMbSAfND9h7v1pgBOPbz3RksqTqAQ5rUa7JUYMGQidLCHcHUoe7uiE_adoImWngUhbbECXQEYG79yuJ026510xq0WiPbx0T8Gm3UZvvFzXH1eOu_b-me5nxlzlrqbhMybR0QwsGi6myubtw",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ0ZTA2Y2ViMjJiMDFiZTU2YzIxM2M5ODU0MGFiNTYzYmZmNWE1OGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA2NDU1MDM2MTkwMzQwMzE1ODU2IiwiZW1haWwiOiJkYXZlNTIyNUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IkhURnBVcDBXcTZUT0ttaHFJNGEyYmciLCJpYXQiOjE2MzgwNzg5NzUsImV4cCI6MTYzODA4MjU3NX0.CNxNwzVM0UlmZ_6sMDoGSuvizghiNO0ts7TvZho4DhpFEoX31q3K2QK_wsJKQO3e2VKvx4rAk-Ocy2LFTA5o6zxv0yqFHGb5jf11v5E6MHqeXlrock18-bNXEUcyx-40ss-1LJ_9zdOseWAm-mjqmvzTSFzdobc1SRNk6dgJTHwP7MirxaizbwfV-KBgz5iqwc1TdKHmIyQ_p5w2DxzJx7vq59m8-iAPpWXt8P6z-HQVQmsF5p5OQWrTTjR6nozKoAV8-6a1Q5Q3XTkpK3Te2kTyVPfJKdkhkE1GmEJXtWzmzN7AuiDwtfsigmzdkG9S0u_EldGSAAUiov4_jbR5Fg"
+	},
+	"activeProjects": {
+		"C:\\Users\\dave5\\Desktop\\Phase-3\\Netflix-clone-master": "netflix-clone-12d99",
+		"C:\\Users\\dave5\\Desktop\\Phase-3\\Amazon-clone1": "clone1-62d3a",
+		"C:\\Users\\dave5\\Desktop\\Phase-3\\Amazon-clone2": "clone1-62d3a",
+		"C:\\Users\\dave5\\Desktop\\Phase-3\\Amazon-Clone2": "clone2-9417a"
+	},
+	"adminsdkconfig": {
+		"clone1-62d3a": {
+			"projectId": "clone1-62d3a",
+			"storageBucket": "clone1-62d3a.appspot.com"
+		},
+		"clone2-9417a": {
+			"projectId": "clone2-9417a",
+			"databaseURL": "https://clone2-9417a-default-rtdb.firebaseio.com",
+			"storageBucket": "clone2-9417a.appspot.com",
+			"locationId": "us-central"
+		}
+	},
+	"webconfig": {
+		"clone1-62d3a": {
+			"projectId": "clone1-62d3a",
+			"appId": "1:95535355304:web:b5151a9f8a4015a5dd799d",
+			"storageBucket": "clone1-62d3a.appspot.com",
+			"apiKey": "AIzaSyA3z-2NgAyNj_02vJEgjEdoYoT6CVhMoFc",
+			"authDomain": "clone1-62d3a.firebaseapp.com",
+			"messagingSenderId": "95535355304",
+			"measurementId": "G-QZPD602PRX"
+		},
+		"clone2-9417a": {
+			"projectId": "clone2-9417a",
+			"appId": "1:751046969436:web:f2f3f2a643d824665ffe99",
+			"databaseURL": "https://clone2-9417a-default-rtdb.firebaseio.com",
+			"storageBucket": "clone2-9417a.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyDzFuIcw-HhnVCqGSkEawHte8vUvTqLE0s",
+			"authDomain": "clone2-9417a.firebaseapp.com",
+			"messagingSenderId": "751046969436",
+			"measurementId": "G-BJ41MK9SYH"
+		}
+	}
+}

@@ -1,0 +1,106 @@
+[0209/110927.216:INFO:CONSOLE(7)] "Uncaught TypeError: Cannot read property 'addEventListener' of null", source: about:blank (7)
+[0209/110927.216:INFO:CONSOLE(3)] "Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/110927.219:INFO:CONSOLE(3)] "Attempting to get step: Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/110927.355:INFO:CONSOLE(3)] "Attempting to set step:step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/110927.355:INFO:CONSOLE(3)] "Setting step", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/110927.355:INFO:CONSOLE(3)] "Does $step exist? step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/110946.633:INFO:CONSOLE(3)] "Adding data params: [object Object]", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/110946.633:INFO:CONSOLE(3)] "Sending form: https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra?AuthRedUrl=https%3A%2F%2Fwww.fidelity.com%2Fwebcontent%2FATPConfig%2Fversion_10_6%2Fconfiguration_2_0.shtml", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/110946.641:INFO:CONSOLE(3)] "AJAX: /ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612890566836 (3)
+[0209/111003.583:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0209/111003.584:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0209/111005.575:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0209/111005.585:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0209/111005.586:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/111005.586:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0209/111005.586:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/111005.586:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/111006.291:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0209/111008.331:INFO:CONSOLE(260)] "Moment Timezone 0.3.0 was already loaded with data from 2014j", source: https://www.fid-inv.com/webcontent/ap113734-client-trade/21.01.1/js/ngft-integrated-min.js (260)
+[0209/222543.923:INFO:CONSOLE(7)] "Uncaught TypeError: Cannot read property 'addEventListener' of null", source: about:blank (7)
+[0209/222543.923:INFO:CONSOLE(3)] "Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222543.927:INFO:CONSOLE(3)] "Attempting to get step: Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222544.236:INFO:CONSOLE(3)] "Attempting to set step:step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222544.236:INFO:CONSOLE(3)] "Setting step", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222544.236:INFO:CONSOLE(3)] "Does $step exist? step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222553.652:INFO:CONSOLE(3)] "Adding data params: [object Object]", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222553.652:INFO:CONSOLE(3)] "Sending form: https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra?AuthRedUrl=https%3A%2F%2Fwww.fidelity.com%2Fwebcontent%2FATPConfig%2Fversion_10_6%2Fconfiguration_2_0.shtml", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222553.660:INFO:CONSOLE(3)] "AJAX: /ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1612931143730 (3)
+[0209/222611.241:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0209/222611.245:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0209/222614.148:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0209/222614.160:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0209/222614.160:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/222614.160:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0209/222614.160:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/222614.160:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/222615.082:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0209/222615.329:INFO:CONSOLE(260)] "Moment Timezone 0.3.0 was already loaded with data from 2014j", source: https://www.fid-inv.com/webcontent/ap113734-client-trade/21.01.1/js/ngft-integrated-min.js (260)
+[0209/222948.138:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0209/222948.140:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0209/222950.056:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0209/222950.056:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0209/222950.056:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/222950.057:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0209/222950.057:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/222950.057:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0209/222950.408:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0211/102812.184:INFO:CONSOLE(7)] "Uncaught TypeError: Cannot read property 'addEventListener' of null", source: about:blank (7)
+[0211/102812.184:INFO:CONSOLE(3)] "Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102812.192:INFO:CONSOLE(3)] "Attempting to get step: Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102812.350:INFO:CONSOLE(3)] "Attempting to set step:step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102812.350:INFO:CONSOLE(3)] "Setting step", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102812.350:INFO:CONSOLE(3)] "Does $step exist? step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102842.222:INFO:CONSOLE(3)] "Adding data params: [object Object]", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102842.226:INFO:CONSOLE(3)] "Sending form: https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra?AuthRedUrl=https%3A%2F%2Fwww.fidelity.com%2Fwebcontent%2FATPConfig%2Fversion_10_6%2Fconfiguration_2_0.shtml", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102842.230:INFO:CONSOLE(3)] "AJAX: /ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613060891843 (3)
+[0211/102902.496:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0211/102902.499:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0211/102904.685:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0211/102904.695:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0211/102904.696:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0211/102904.696:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0211/102904.696:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0211/102904.696:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0211/102905.897:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0211/102906.144:INFO:CONSOLE(260)] "Moment Timezone 0.3.0 was already loaded with data from 2014j", source: https://www.fid-inv.com/webcontent/ap113734-client-trade/21.01.1/js/ngft-integrated-min.js (260)
+[0211/112846.383:INFO:CONSOLE(298)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://nexus.ensighten.com/fidelity/prod/Bootstrap.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://eresearch.fidelity.com/eresearch/markets_sectors/global/country.jhtml?overviewType=Americas&countryCode=US&symbol=.IXIC (298)
+[0211/112846.383:INFO:CONSOLE(298)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://nexus.ensighten.com/fidelity/prod/Bootstrap.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://eresearch.fidelity.com/eresearch/markets_sectors/global/country.jhtml?overviewType=Americas&countryCode=US&symbol=.IXIC (298)
+[0211/112910.405:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0211/112910.405:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0211/112912.424:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0211/112912.446:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0211/112912.446:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0211/112912.446:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0211/112912.446:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0211/112912.446:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0211/113023.388:INFO:CONSOLE(2)] "Positions Web Experience (PWE) static assets started loading ...", source:  (2)
+[0211/113023.389:INFO:CONSOLE(28)] "Positions Web Experience (PWE) CSS styles loaded successfully", source:  (28)
+[0211/113023.389:INFO:CONSOLE(56)] "Positions Web Experience (PWE) vendor libraries loaded successfully", source:  (56)
+[0211/113023.389:INFO:CONSOLE(66)] "Positions Web Experience (PWE) source and vendor scripts/styles files loaded successfully", source:  (66)
+[0211/113023.389:INFO:CONSOLE(62)] "Positions Web Experience (PWE) source code loaded successfully", source:  (62)
+[0211/113025.543:INFO:CONSOLE(2)] "State dispatch occurred, %s", source: https://digital.fidelity.com/stgw/digital/positions/poswebex/client/posweb.f36a7bb27a719d5ed224.64b7e051cdab3a04c600.vendor.js (2)
+[0211/113132.920:INFO:CONSOLE(2481)] "thePlatform PDK", source: https://www.fidelity.com/webcontent/videoContent/latest/pdk/tpPdk.js (2481)
+[0211/113132.920:INFO:CONSOLE(2482)] "5.6.16.439427 (2016-03-02 2:35 PM)", source: https://www.fidelity.com/webcontent/videoContent/latest/pdk/tpPdk.js (2482)
+[0211/113134.265:INFO:CONSOLE(111)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://nexus.ensighten.com/fidelity/prod/Bootstrap.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.fidelity.com/learning-center/investment-products/options/in-the-money (111)
+[0211/113134.267:INFO:CONSOLE(111)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://nexus.ensighten.com/fidelity/prod/Bootstrap.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.fidelity.com/learning-center/investment-products/options/in-the-money (111)
+[0211/113135.434:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0211/113135.434:INFO:CONSOLE(1919)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://nexus.ensighten.com/fidelity/prod/Bootstrap.js (1919)
+[0211/113139.041:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0211/113139.042:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0211/120139.046:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0211/120139.047:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0211/130209.813:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0211/130209.813:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.

@@ -1,0 +1,104 @@
+[0221/103848.209:INFO:CONSOLE(7)] "Uncaught TypeError: Cannot read property 'addEventListener' of null", source: about:blank (7)
+[0221/103848.209:INFO:CONSOLE(3)] "Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103848.209:INFO:CONSOLE(3)] "Attempting to get step: Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103848.325:INFO:CONSOLE(3)] "Attempting to set step:step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103848.325:INFO:CONSOLE(3)] "Setting step", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103848.325:INFO:CONSOLE(3)] "Does $step exist? step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103904.790:INFO:CONSOLE(3)] "Adding data params: [object Object]", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103904.790:INFO:CONSOLE(3)] "Sending form: https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra?AuthRedUrl=https%3A%2F%2Fwww.fidelity.com%2Fwebcontent%2FATPConfig%2Fversion_10_6%2Fconfiguration_2_0.shtml", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103904.798:INFO:CONSOLE(3)] "AJAX: /ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1613925527968 (3)
+[0221/103923.566:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0221/103923.568:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0221/103924.910:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0221/103924.922:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0221/103924.923:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/103924.923:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0221/103924.923:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/103924.923:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/103925.129:INFO:CONSOLE(947)] "AT:", source: https://nexus.ensighten.com/fidelity/prod/Bootstrap.js (947)
+[0221/103926.813:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0221/103931.471:INFO:CONSOLE(260)] "Moment Timezone 0.3.0 was already loaded with data from 2014j", source: https://www.fid-inv.com/webcontent/ap113734-client-trade/21.01.1/js/ngft-integrated-min.js (260)
+[0221/104821.310:INFO:CONSOLE(82)] "Uncaught TypeError: Cannot read property 'VSFORMAT' of undefined", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (82)
+[0221/115315.305:INFO:CONSOLE(947)] "AT:", source: https://nexus.ensighten.com/fidelity/prod/Bootstrap.js (947)
+[0221/115315.305:INFO:CONSOLE(146)] "Uncaught TypeError: Cannot set property 'lcpsc' of undefined", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (146)
+[0221/115329.478:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0221/115329.478:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0221/115332.666:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0221/115332.666:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0221/115332.666:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/115332.666:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0221/115332.666:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/115332.666:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/120112.638:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/120112.638:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/120134.564:INFO:CONSOLE(3773)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3773)
+[0221/120134.568:INFO:CONSOLE(3965)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.6/js/main-dma-min.js (3965)
+[0221/120137.730:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0221/120137.734:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0221/120137.734:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/120137.734:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0221/120137.734:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/120137.734:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0221/123112.644:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/123112.644:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/130112.647:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/130112.648:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/133112.650:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/133112.651:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/142315.773:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/142315.774:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/151922.006:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/151922.018:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/154922.021:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/154922.021:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/161922.022:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/161922.022:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/165158.101:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/165158.101:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/172158.103:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/172158.104:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/175158.106:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/175158.107:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/182158.108:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/182158.109:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/185158.111:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0221/185158.112:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0221/191833.231:ERROR:browser_gpu_channel_host_factory.cc(107)] Failed to launch GPU process.
+[0311/055234.780:INFO:CONSOLE(7)] "Uncaught TypeError: Cannot read property 'addEventListener' of null", source: about:blank (7)
+[0311/055234.781:INFO:CONSOLE(3)] "Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055234.783:INFO:CONSOLE(3)] "Attempting to get step: Init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055234.893:INFO:CONSOLE(3)] "Attempting to set step:step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055234.893:INFO:CONSOLE(3)] "Setting step", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055234.893:INFO:CONSOLE(3)] "Does $step exist? step-init", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055350.475:INFO:CONSOLE(3)] "Adding data params: [object Object]", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055350.476:INFO:CONSOLE(3)] "Sending form: https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra?AuthRedUrl=https%3A%2F%2Fwww.fidelity.com%2Fwebcontent%2FATPConfig%2Fversion_10_6%2Fconfiguration_2_0.shtml", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055350.485:INFO:CONSOLE(3)] "AJAX: /ftgw/Fas/Fidelity/RtlCust/Login/Response/dj.chf.ra", source: https://login.fidelity.com/ftgw/pages/widget/js/fs-widget.jquery.min.js?_=1615463554100 (3)
+[0311/055404.800:INFO:CONSOLE(3775)] "Error when init state store: Can not find Portfolio element when initialize state store.", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.8/js/main-dma-min.js (3775)
+[0311/055404.802:INFO:CONSOLE(3967)] "start next gen", source: https://www.fid-inv.com/webcontent/ap110184-client-portfolio/126.8/js/main-dma-min.js (3967)
+[0311/055406.031:INFO:CONSOLE(80)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (80)
+[0311/055406.037:INFO:CONSOLE(400)] "**In setupBrowserMessaging", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (400)
+[0311/055406.038:INFO:CONSOLE(396)] "In checkVersion", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0311/055406.038:INFO:CONSOLE(395)] "***Navigator useragent", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (395)
+[0311/055406.038:INFO:CONSOLE(396)] "After assigning to ver variable from calling getSafariVersion+", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0311/055406.038:INFO:CONSOLE(396)] "-1", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (396)
+[0311/055406.605:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0311/055406.622:INFO:CONSOLE(26)] "Uncaught TypeError: Cannot read property 'accountStart' of undefined", source: https://nexus.ensighten.com/fidelity/prod/code/f1e274aaac3a6b8b5ad81f7eca8cd7ce.js?conditionId0=46215&conditionId1=422684 (26)
+[0311/055408.994:INFO:CONSOLE(260)] "Moment Timezone 0.3.0 was already loaded with data from 2014j", source: https://www.fid-inv.com/webcontent/ap113734-client-trade/21.01.1/js/ngft-integrated-min.js (260)
+[0311/055420.921:INFO:CONSOLE(82)] "Uncaught TypeError: Cannot read property 'VSFORMAT' of undefined", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (82)
+[0311/055440.647:INFO:CONSOLE(2)] "Positions Web Experience (PWE) static assets started loading ...", source:  (2)
+[0311/055440.648:INFO:CONSOLE(28)] "Positions Web Experience (PWE) CSS styles loaded successfully", source:  (28)
+[0311/055440.651:INFO:CONSOLE(56)] "Positions Web Experience (PWE) vendor libraries loaded successfully", source:  (56)
+[0311/055440.652:INFO:CONSOLE(66)] "Positions Web Experience (PWE) source and vendor scripts/styles files loaded successfully", source:  (66)
+[0311/055440.656:INFO:CONSOLE(62)] "Positions Web Experience (PWE) source code loaded successfully", source:  (62)
+[0311/055441.767:INFO:CONSOLE(2)] "Uncaught (in promise) TypeError: Promise.allSettled is not a function", source: https://digital.fidelity.com/stgw/digital/positions/poswebex/client/posweb.f36a7bb27a719d5ed224.477013cc3f3d5163fb1d.vendor.js (2)
+[0311/055442.417:INFO:CONSOLE(2)] "Error In track analytics TypeError: Cannot set property 'tileElemClick' of undefined", source: https://digital.fidelity.com/stgw/digital/positions/poswebex/client/posweb.f36a7bb27a719d5ed224.64b7e051cdab3a04c600.vendor.js (2)
+[0311/055442.417:INFO:CONSOLE(2)] "Error In track analytics TypeError: Cannot set property 'tileElemClick' of undefined", source: https://digital.fidelity.com/stgw/digital/positions/poswebex/client/posweb.f36a7bb27a719d5ed224.64b7e051cdab3a04c600.vendor.js (2)
+[0311/055442.417:INFO:CONSOLE(2)] "State dispatch occurred, %s", source: https://digital.fidelity.com/stgw/digital/positions/poswebex/client/posweb.f36a7bb27a719d5ed224.64b7e051cdab3a04c600.vendor.js (2)
+[0311/060258.875:INFO:CONSOLE(82)] "Uncaught TypeError: Cannot read property 'VSFORMAT' of undefined", source: https://nexus.ensighten.com/fidelity/prod/code/bab7dfcca58854923137343254339987.js?conditionId0=46239 (82)
+[0311/060259.883:INFO:CONSOLE(746)] "Uncaught TypeError: Cannot set property 'tileElemClick' of undefined", source: https://nexus.ensighten.com/fidelity/prod/Bootstrap.js (746)
