@@ -1,39 +1,6 @@
-2022/05/24-17:40:31.990 581c Reusing MANIFEST C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
-2022/05/24-17:40:31.994 581c Recovering log #10691
-2022/05/24-17:40:31.997 581c Reusing old log C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/010691.log 
-2022/05/24-17:41:37.405 581c Level-0 table #10695: started
-2022/05/24-17:41:37.410 581c Level-0 table #10695: 26769 bytes OK
-2022/05/24-17:41:37.414 581c Delete type=0 #10691
-2022/05/24-17:43:37.402 55d0 Level-0 table #10697: started
-2022/05/24-17:43:37.406 55d0 Level-0 table #10697: 26641 bytes OK
-2022/05/24-17:43:37.409 55d0 Delete type=0 #10694
-2022/05/24-17:43:37.410 55d0 Compacting 4@0 + 1@1 files
-2022/05/24-17:43:37.433 55d0 Generated table #10698@0: 601 keys, 867376 bytes
-2022/05/24-17:43:37.433 55d0 Compacted 4@0 + 1@1 files => 867376 bytes
-2022/05/24-17:43:37.436 55d0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2022/05/24-17:43:37.437 55d0 Delete type=2 #10688
-2022/05/24-17:43:37.437 55d0 Delete type=2 #10690
-2022/05/24-17:43:37.437 55d0 Delete type=2 #10692
-2022/05/24-17:43:37.437 55d0 Delete type=2 #10695
-2022/05/24-17:43:37.437 55d0 Delete type=2 #10697
-2022/05/24-17:46:37.413 4c08 Level-0 table #10700: started
-2022/05/24-17:46:37.418 4c08 Level-0 table #10700: 26578 bytes OK
-2022/05/24-17:46:37.421 4c08 Delete type=0 #10696
-2022/05/24-17:50:36.550 d60 Level-0 table #10702: started
-2022/05/24-17:50:36.554 d60 Level-0 table #10702: 26402 bytes OK
-2022/05/24-17:50:36.558 d60 Delete type=0 #10699
-2022/05/24-17:53:36.549 3c50 Level-0 table #10704: started
-2022/05/24-17:53:36.554 3c50 Level-0 table #10704: 26203 bytes OK
-2022/05/24-17:53:36.557 3c50 Delete type=0 #10701
-2022/05/24-17:56:23.479 3cdc Level-0 table #10706: started
-2022/05/24-17:56:23.488 3cdc Level-0 table #10706: 26151 bytes OK
-2022/05/24-17:56:23.493 3cdc Delete type=0 #10703
-2022/05/24-17:56:23.495 3cdc Compacting 4@0 + 1@1 files
-2022/05/24-17:56:23.562 3cdc Generated table #10707@0: 601 keys, 867378 bytes
-2022/05/24-17:56:23.562 3cdc Compacted 4@0 + 1@1 files => 867378 bytes
-2022/05/24-17:56:23.565 3cdc compacted to: files[ 0 1 0 0 0 0 0 ]
-2022/05/24-17:56:23.568 3cdc Delete type=2 #10698
-2022/05/24-17:56:23.568 3cdc Delete type=2 #10700
-2022/05/24-17:56:23.568 3cdc Delete type=2 #10702
-2022/05/24-17:56:23.568 3cdc Delete type=2 #10704
-2022/05/24-17:56:23.568 3cdc Delete type=2 #10706
+2022/06/10-09:45:41.253 3810 Reusing MANIFEST C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/06/10-09:45:41.257 3810 Recovering log #11187
+2022/06/10-09:45:41.264 3810 Reusing old log C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/011187.log 
+2022/06/10-09:47:53.275 3810 Level-0 table #11191: started
+2022/06/10-09:47:53.281 3810 Level-0 table #11191: 134105 bytes OK
+2022/06/10-09:47:53.285 3810 Delete type=0 #11187

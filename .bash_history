@@ -136,3 +136,21 @@ git push --help
 git push workspace
 git push fake-store
 git pull newfakestore
+node --v
+node --version
+1+1
+>1+1
+const name = 'Brad"
+name
+console.log(name)
+
+const name = 'Brad"
+name
+console.log(name)
+
+cls
+cd fake-store
+node -v
+DevRepos
+cd DevRepos
+git clone
