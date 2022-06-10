@@ -8,7 +8,7 @@
 		"node8DeploysDisabledAfter": 1613390400000,
 		"node8RuntimeDisabledAfter": 1615809600000,
 		"node8WarnAfter": 1600128000000,
-		"fetched": 1638055127238
+		"fetched": 1650561897557
 	},
 	"usage": true,
 	"user": {
@@ -23,26 +23,23 @@
 		"exp": 1636564549
 	},
 	"tokens": {
-		"expires_at": 1638082575675,
+		"expires_at": 1650579384980,
 		"refresh_token": "1//04n7U4t40cuweCgYIARAAGAQSNwF-L9IrkKGGmhmZjrdKuIaHKuUsVWURouMlotFdZ-zq9NUrX4OOQ6Vt6QfzcM7NaZdM2wMokQM",
-		"scopes": [
-			"email",
-			"https://www.googleapis.com/auth/cloud-platform",
-			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
-			"https://www.googleapis.com/auth/firebase",
-			"openid"
-		],
-		"access_token": "ya29.a0ARrdaM-UNqMTDLyN-cvgwyUPMbSAfND9h7v1pgBOPbz3RksqTqAQ5rUa7JUYMGQidLCHcHUoe7uiE_adoImWngUhbbECXQEYG79yuJ026510xq0WiPbx0T8Gm3UZvvFzXH1eOu_b-me5nxlzlrqbhMybR0QwsGi6myubtw",
+		"scopes": [],
+		"access_token": "ya29.A0ARrdaM8AZTbkg7CUBoMbJvxUUIDmQ8yydc65EueqcIL3rKzS3Pn3sIHmrh7HY6WfxonBlMU0NmLO9s_58mT1ibLj--mdARludEtx7xOKkosSL9I65iNga39m0HzNOUycXnD0D8ZGSjB66tWC9Li_tZqjIvB6qiBE6ETW_OY",
 		"expires_in": 3599,
-		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid",
+		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform openid https://www.googleapis.com/auth/userinfo.email",
 		"token_type": "Bearer",
-		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ0ZTA2Y2ViMjJiMDFiZTU2YzIxM2M5ODU0MGFiNTYzYmZmNWE1OGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA2NDU1MDM2MTkwMzQwMzE1ODU2IiwiZW1haWwiOiJkYXZlNTIyNUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IkhURnBVcDBXcTZUT0ttaHFJNGEyYmciLCJpYXQiOjE2MzgwNzg5NzUsImV4cCI6MTYzODA4MjU3NX0.CNxNwzVM0UlmZ_6sMDoGSuvizghiNO0ts7TvZho4DhpFEoX31q3K2QK_wsJKQO3e2VKvx4rAk-Ocy2LFTA5o6zxv0yqFHGb5jf11v5E6MHqeXlrock18-bNXEUcyx-40ss-1LJ_9zdOseWAm-mjqmvzTSFzdobc1SRNk6dgJTHwP7MirxaizbwfV-KBgz5iqwc1TdKHmIyQ_p5w2DxzJx7vq59m8-iAPpWXt8P6z-HQVQmsF5p5OQWrTTjR6nozKoAV8-6a1Q5Q3XTkpK3Te2kTyVPfJKdkhkE1GmEJXtWzmzN7AuiDwtfsigmzdkG9S0u_EldGSAAUiov4_jbR5Fg"
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQzMzJhYjU0NWNjMTg5ZGYxMzNlZmRkYjNhNmM0MDJlYmY0ODlhYzIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA2NDU1MDM2MTkwMzQwMzE1ODU2IiwiZW1haWwiOiJkYXZlNTIyNUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6Ik1TVGYwWVBRR3VrN3A2Wi1tN25ibkEiLCJpYXQiOjE2NTA1NzU3ODQsImV4cCI6MTY1MDU3OTM4NH0.aw9hqmrTzP9QG5g-HsiFDduaedis4W9pR06TgIIH7pZzKMQ2GKhN93bDm_blMubsKbjX7BULke4qRcL7kttXRoXoidQPa3oldnAp6JuoyqSAzmygf9gLTfrCZv3uCq3GKGDF3xlq4n9CvgxcRXUq95JlEPLEGIyzjbGdIpRRB3vXXOpLrtjOkuQXP8XzIrpHC9flj-jqW9rIb4_StZZIWJTfE7Sc_34Jv9LBCu-47WbV335wPbRiYcjAmLnBEbtq9rQbeyeEqXB2nosTmZO2nGhMICbbL5GH_vENvVtdWQ50ZwhMdTKxb9b8a7rt1NSAyf4RIywLt3QTYIhxUIxakg"
 	},
 	"activeProjects": {
 		"C:\\Users\\dave5\\Desktop\\Phase-3\\Netflix-clone-master": "netflix-clone-12d99",
 		"C:\\Users\\dave5\\Desktop\\Phase-3\\Amazon-clone1": "clone1-62d3a",
 		"C:\\Users\\dave5\\Desktop\\Phase-3\\Amazon-clone2": "clone1-62d3a",
-		"C:\\Users\\dave5\\Desktop\\Phase-3\\Amazon-Clone2": "clone2-9417a"
+		"C:\\Users\\dave5\\Desktop\\Phase-3\\Amazon-Clone2": "clone2-9417a",
+		"C:\\Users\\dave5\\Desktop\\Workspace\\fake-store": "fake-store-d3f99",
+		"C:\\Users\\dave5\\Desktop\\STORE\\portfolio": "portfolio-6aa28",
+		"C:\\Users\\dave5\\Desktop\\portfoliowebsite": "portfoliowebsite-4ae28"
 	},
 	"adminsdkconfig": {
 		"clone1-62d3a": {
@@ -76,6 +73,22 @@
 			"authDomain": "clone2-9417a.firebaseapp.com",
 			"messagingSenderId": "751046969436",
 			"measurementId": "G-BJ41MK9SYH"
+		},
+		"portfoliowebsite-682f3": {
+			"projectId": "portfoliowebsite-682f3",
+			"appId": "1:564364994987:web:cde1445fdbaedc9b730aee",
+			"storageBucket": "portfoliowebsite-682f3.appspot.com",
+			"apiKey": "AIzaSyBultLLrVFd0HRqd3QebJ3tz8m8L2ZJoDw",
+			"authDomain": "portfoliowebsite-682f3.firebaseapp.com",
+			"messagingSenderId": "564364994987",
+			"measurementId": "G-2CWD9WVSW6"
+		},
+		"portfoliowebsite-4ae28": {
+			"projectId": "portfoliowebsite-4ae28",
+			"storageBucket": "portfoliowebsite-4ae28.appspot.com",
+			"apiKey": "AIzaSyDei8bgO-9F_6JNu6yLHxTn6EWIXSN0wT0",
+			"authDomain": "portfoliowebsite-4ae28.firebaseapp.com",
+			"messagingSenderId": "850295824250"
 		}
 	}
 }

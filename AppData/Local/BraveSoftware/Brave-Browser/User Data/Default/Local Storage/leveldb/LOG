@@ -1,66 +1,39 @@
-2022/02/18-20:24:30.922 7c4 Reusing MANIFEST C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
-2022/02/18-20:24:30.957 7c4 Recovering log #7278
-2022/02/18-20:24:30.965 7c4 Reusing old log C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/007278.log 
-2022/02/18-20:26:38.455 51f0 Level-0 table #7282: started
-2022/02/18-20:26:38.473 51f0 Level-0 table #7282: 32939 bytes OK
-2022/02/18-20:26:38.478 51f0 Delete type=0 #7278
-2022/02/18-20:26:38.483 51f0 Compacting 4@0 + 2@1 files
-2022/02/18-20:26:38.598 51f0 Generated table #7283@0: 5031 keys, 2139206 bytes
-2022/02/18-20:26:38.676 51f0 Generated table #7284@0: 3898 keys, 2063351 bytes
-2022/02/18-20:26:38.676 51f0 Compacted 4@0 + 2@1 files => 4202557 bytes
-2022/02/18-20:26:38.677 51f0 compacted to: files[ 0 2 1 0 0 0 0 ]
-2022/02/18-20:26:38.681 51f0 Delete type=2 #7264
-2022/02/18-20:26:38.681 51f0 Delete type=2 #7273
-2022/02/18-20:26:38.681 51f0 Delete type=2 #7275
-2022/02/18-20:26:38.681 51f0 Delete type=2 #7277
-2022/02/18-20:26:38.681 51f0 Delete type=2 #7279
-2022/02/18-20:26:38.681 51f0 Delete type=2 #7282
-2022/02/18-20:31:32.580 57b0 Level-0 table #7286: started
-2022/02/18-20:31:32.587 57b0 Level-0 table #7286: 32797 bytes OK
-2022/02/18-20:31:32.589 57b0 Delete type=0 #7281
-2022/02/18-20:35:32.586 648 Level-0 table #7288: started
-2022/02/18-20:35:32.601 648 Level-0 table #7288: 32151 bytes OK
-2022/02/18-20:35:32.606 648 Delete type=0 #7285
-2022/02/18-20:39:32.588 648 Level-0 table #7290: started
-2022/02/18-20:39:32.593 648 Level-0 table #7290: 32128 bytes OK
-2022/02/18-20:39:32.596 648 Delete type=0 #7287
-2022/02/18-20:43:32.576 1f3c Level-0 table #7292: started
-2022/02/18-20:43:32.589 1f3c Level-0 table #7292: 32119 bytes OK
-2022/02/18-20:43:32.595 1f3c Delete type=0 #7289
-2022/02/18-20:43:32.596 1f3c Compacting 4@0 + 2@1 files
-2022/02/18-20:43:32.694 1f3c Generated table #7293@0: 5031 keys, 2139202 bytes
-2022/02/18-20:43:32.790 1f3c Generated table #7294@0: 3898 keys, 2063332 bytes
-2022/02/18-20:43:32.791 1f3c Compacted 4@0 + 2@1 files => 4202534 bytes
-2022/02/18-20:43:32.792 1f3c compacted to: files[ 0 2 1 0 0 0 0 ]
-2022/02/18-20:43:32.793 1f3c Delete type=2 #7283
-2022/02/18-20:43:32.793 1f3c Delete type=2 #7284
-2022/02/18-20:43:32.793 1f3c Delete type=2 #7286
-2022/02/18-20:43:32.794 1f3c Delete type=2 #7288
-2022/02/18-20:43:32.794 1f3c Delete type=2 #7290
-2022/02/18-20:43:32.794 1f3c Delete type=2 #7292
-2022/02/18-20:47:32.587 4d94 Level-0 table #7296: started
-2022/02/18-20:47:32.618 4d94 Level-0 table #7296: 32157 bytes OK
-2022/02/18-20:47:32.620 4d94 Delete type=0 #7291
-2022/02/18-20:50:51.181 4900 Level-0 table #7298: started
-2022/02/18-20:50:51.192 4900 Level-0 table #7298: 32076 bytes OK
-2022/02/18-20:50:51.197 4900 Delete type=0 #7295
-2022/02/18-20:55:32.582 38c8 Level-0 table #7300: started
-2022/02/18-20:55:32.604 38c8 Level-0 table #7300: 32272 bytes OK
-2022/02/18-20:55:32.605 38c8 Delete type=0 #7297
-2022/02/18-20:59:32.576 5144 Level-0 table #7302: started
-2022/02/18-20:59:32.583 5144 Level-0 table #7302: 32165 bytes OK
-2022/02/18-20:59:32.590 5144 Delete type=0 #7299
-2022/02/18-20:59:32.591 5144 Compacting 4@0 + 2@1 files
-2022/02/18-20:59:32.685 5144 Generated table #7303@0: 5031 keys, 2139189 bytes
-2022/02/18-20:59:32.779 5144 Generated table #7304@0: 3898 keys, 2063332 bytes
-2022/02/18-20:59:32.780 5144 Compacted 4@0 + 2@1 files => 4202521 bytes
-2022/02/18-20:59:32.782 5144 compacted to: files[ 0 2 1 0 0 0 0 ]
-2022/02/18-20:59:32.785 5144 Delete type=2 #7293
-2022/02/18-20:59:32.785 5144 Delete type=2 #7294
-2022/02/18-20:59:32.785 5144 Delete type=2 #7296
-2022/02/18-20:59:32.785 5144 Delete type=2 #7298
-2022/02/18-20:59:32.785 5144 Delete type=2 #7300
-2022/02/18-20:59:32.785 5144 Delete type=2 #7302
-2022/02/18-21:03:32.578 3b8c Level-0 table #7306: started
-2022/02/18-21:03:32.584 3b8c Level-0 table #7306: 32137 bytes OK
-2022/02/18-21:03:32.587 3b8c Delete type=0 #7301
+2022/05/24-17:40:31.990 581c Reusing MANIFEST C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/05/24-17:40:31.994 581c Recovering log #10691
+2022/05/24-17:40:31.997 581c Reusing old log C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/010691.log 
+2022/05/24-17:41:37.405 581c Level-0 table #10695: started
+2022/05/24-17:41:37.410 581c Level-0 table #10695: 26769 bytes OK
+2022/05/24-17:41:37.414 581c Delete type=0 #10691
+2022/05/24-17:43:37.402 55d0 Level-0 table #10697: started
+2022/05/24-17:43:37.406 55d0 Level-0 table #10697: 26641 bytes OK
+2022/05/24-17:43:37.409 55d0 Delete type=0 #10694
+2022/05/24-17:43:37.410 55d0 Compacting 4@0 + 1@1 files
+2022/05/24-17:43:37.433 55d0 Generated table #10698@0: 601 keys, 867376 bytes
+2022/05/24-17:43:37.433 55d0 Compacted 4@0 + 1@1 files => 867376 bytes
+2022/05/24-17:43:37.436 55d0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/05/24-17:43:37.437 55d0 Delete type=2 #10688
+2022/05/24-17:43:37.437 55d0 Delete type=2 #10690
+2022/05/24-17:43:37.437 55d0 Delete type=2 #10692
+2022/05/24-17:43:37.437 55d0 Delete type=2 #10695
+2022/05/24-17:43:37.437 55d0 Delete type=2 #10697
+2022/05/24-17:46:37.413 4c08 Level-0 table #10700: started
+2022/05/24-17:46:37.418 4c08 Level-0 table #10700: 26578 bytes OK
+2022/05/24-17:46:37.421 4c08 Delete type=0 #10696
+2022/05/24-17:50:36.550 d60 Level-0 table #10702: started
+2022/05/24-17:50:36.554 d60 Level-0 table #10702: 26402 bytes OK
+2022/05/24-17:50:36.558 d60 Delete type=0 #10699
+2022/05/24-17:53:36.549 3c50 Level-0 table #10704: started
+2022/05/24-17:53:36.554 3c50 Level-0 table #10704: 26203 bytes OK
+2022/05/24-17:53:36.557 3c50 Delete type=0 #10701
+2022/05/24-17:56:23.479 3cdc Level-0 table #10706: started
+2022/05/24-17:56:23.488 3cdc Level-0 table #10706: 26151 bytes OK
+2022/05/24-17:56:23.493 3cdc Delete type=0 #10703
+2022/05/24-17:56:23.495 3cdc Compacting 4@0 + 1@1 files
+2022/05/24-17:56:23.562 3cdc Generated table #10707@0: 601 keys, 867378 bytes
+2022/05/24-17:56:23.562 3cdc Compacted 4@0 + 1@1 files => 867378 bytes
+2022/05/24-17:56:23.565 3cdc compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/05/24-17:56:23.568 3cdc Delete type=2 #10698
+2022/05/24-17:56:23.568 3cdc Delete type=2 #10700
+2022/05/24-17:56:23.568 3cdc Delete type=2 #10702
+2022/05/24-17:56:23.568 3cdc Delete type=2 #10704
+2022/05/24-17:56:23.568 3cdc Delete type=2 #10706

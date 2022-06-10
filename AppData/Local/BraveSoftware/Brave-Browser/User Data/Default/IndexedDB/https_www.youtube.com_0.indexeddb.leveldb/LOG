@@ -1,3 +1,5 @@
-2022/02/18-20:24:36.539 2aa0 Reusing MANIFEST C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/02/18-20:24:36.541 2aa0 Recovering log #1073
-2022/02/18-20:24:36.545 2aa0 Reusing old log C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/001073.log 
+2022/05/24-17:40:36.877 32b8 Reusing MANIFEST C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/24-17:40:36.878 32b8 Recovering log #1530
+2022/05/24-17:40:36.888 32b8 Reusing old log C:\Users\dave5\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/001530.log 
+2022/05/24-17:40:36.888 32b8 Delete type=2 #1529
+2022/05/24-17:40:36.888 32b8 Delete type=2 #1531

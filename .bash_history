@@ -126,3 +126,13 @@ cd desktop
 cd ../desktop
 cd ./desktop
 exit
+cd desktop
+cd Workspace
+cd fake-store
+git push fake-store
+git push fake-store newfakestore
+git push --help
+git push --help
+git push workspace
+git push fake-store
+git pull newfakestore
